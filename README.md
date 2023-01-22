@@ -16,4 +16,7 @@ The dataset contains information about over 17000 anime and over 57M user’s ra
   
  Three models were built for Anime Recommendation:
  Item-based recommendation: 
+ User-based recommendation
+ LightGBMRanker
 
+	
